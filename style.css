@@ -1,0 +1,41 @@
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat&display=swap');
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+
+body{
+	font-family: serif;
+	font-size: 18px;	
+	margin: 10px;
+}
+
+h1, h2, {
+	font-family: 'Bree Serif', serif;
+	font-size: 30px;
+	margin: 10px;
+	
+}
+
+a{
+	text-decoration: none;	
+}
+
+
+.quote{
+font-family: 'Caveat', cursive;
+text-align:centre;
+font-size:25px;
+
+}
